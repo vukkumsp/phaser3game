@@ -41,6 +41,8 @@ export class GameScene extends Phaser.Scene {
                 font: '24px Arial Bold',
                 color: 'white'
                 // ,fill: "#FBFBAC"
+                // fill is not recognised but color attribute is recognized
+                // https://photonstorm.github.io/phaser3-docs/Phaser.Types.GameObjects.Text.html#.TextStyle
             });
     }
     update(time: number): void {
