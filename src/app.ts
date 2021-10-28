@@ -15,7 +15,7 @@ const config: Phaser.Types.Core.GameConfig = {
   title: "Starfall",
   width: 800,
   height: 600,
-  parent: "game",
+  parent: "game", //id="game" in index.html
   scene: [WelcomeScene, GameScene, ScoreScene],
   physics: {
     default: "arcade",
