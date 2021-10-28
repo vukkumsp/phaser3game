@@ -26,7 +26,7 @@ const config: Phaser.Types.Core.GameConfig = {
   backgroundColor: "#000033"
 };
 export class StarfallGame extends Phaser.Game {
-    // Phaser.Types.Core.GameConfig
+  // Phaser.Types.Core.GameConfig
   constructor(config: Phaser.Types.Core.GameConfig) {
     super(config);
   }
