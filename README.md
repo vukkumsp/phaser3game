@@ -2,7 +2,7 @@
 Phaser Sample Game for Learning Phaser 3 Library
 
 # # Demo
-https://vsaiprakash.github.io/phaser3game
+https://vukkumsp.github.io/phaser3game
 
 # # Tutorial followed
 https://www.freecodecamp.org/news/how-to-build-a-simple-game-in-the-browser-with-phaser-3-and-typescript-bdc94719135/
